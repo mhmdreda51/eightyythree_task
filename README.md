@@ -1,16 +1,4 @@
-# ecommerce_task
+# eightyythree ecommerce_task
+![video_2022-10-15_12-25-10_AdobeExpress](https://user-images.githubusercontent.com/60475330/196005851-fc4c6926-9c90-4e6b-acde-9e9298b55e48.gif)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
